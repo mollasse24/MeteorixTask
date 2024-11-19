@@ -1,0 +1,6 @@
+﻿  MeteorixTask.cpp
+Z:\VSproject\MeteorixTask\MeteorixTask\MeteorixTask.cpp(27,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+Z:\VSproject\MeteorixTask\MeteorixTask\MeteorixTask.cpp(27,25): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+Z:\VSproject\MeteorixTask\MeteorixTask\MeteorixTask.cpp(44,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+Z:\VSproject\MeteorixTask\MeteorixTask\MeteorixTask.cpp(45,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  MeteorixTask.vcxproj -> Z:\VSproject\MeteorixTask\x64\Debug\MeteorixTask.exe
